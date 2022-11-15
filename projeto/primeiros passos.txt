@@ -1,0 +1,2 @@
+Planejo desenvolver um sistema de hospital, que seu principal objetivo será cadastrar pacientes diagnosticados com a covid-19 e que precisam de acompanhamento.
+Esse sistema deve conter uma area de login e senha, e no final do cadastro calcular a idade do paciente e verificar e avisar ao médico se o paciente está na area de risco.

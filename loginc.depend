@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667404270 source:c:\users\diego\onedrive\documentos\estudos\loginc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
